@@ -1,9 +1,9 @@
 body {
 
-    background-image: url(../image_de_fond.jpg);
+    background-image: url(../images/image_de_fond.jpg);
     color: rgb(246, 241, 241);
 
-    background-image: url(../image_fond.jpg);
+    background-image: url(../images/image_de_fond.jpg);
 }
 p{
     font-size: 24px; text-align: center;
